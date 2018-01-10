@@ -22,7 +22,7 @@ git clone --bare https://github.com/Sara-Hamilton/template.git
 
 * _Move into the template directory_
 ```
-cd template
+cd template.git
 ```
 
 * _Mirror push to the new repository_
