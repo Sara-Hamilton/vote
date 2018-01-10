@@ -1,21 +1,14 @@
 # Webpage Template
 
-#### {Brief description of application}, {1-9-18}
+#### template to be used for creating new websites, 1-9-18
 
 #### _By Sara Hamilton_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
-_This is a template to be used for creating new websites._
+_{This is a detailed description of your application, its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
 
 ## Setup/Installation Requirements
-
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
 
 * _Create a new repository in GitHub_
 ```
@@ -39,14 +32,14 @@ git push --mirror https://github.com/user-name/new-repository-name.git
 
 ## Support and contact details
 
-_For questions or concerns you can submit a pull request in the GitHub repository_
+_To suggest changes, submit a pull request in the GitHub repository._
 
 ## Technologies Used
 
 * HTML
 * CSS
-* JavaScript
-* Bootstrap
+* jQuery 3.2.1
+* Bootstrap 3.3.7
 
 ### License
 
