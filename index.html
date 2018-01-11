@@ -5,9 +5,37 @@
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <script src="js/jquery-3.2.1.js"></script>
     <script src="js/scripts.js"></script>
-    <title></title>
+    <title>vote</title>
   </head>
   <body>
+    <div class="container">
+      <h1>register to vote</h1>
+      <div>
+        <form id="voteForm">
+          <div class="form-group">
+            <label for="age">Enter your age</label>
+            <input id="age" class="form-control" type="text">
+          </div>
 
+          <button type="submit" class="btn btn-primary">Register to Vote!</button>
+        </form>
+      </div>
+
+      <div id="underAge">
+        <h2>Sorry, you have to be 21 to vote.</h2>
+        <h4>Here are some links to voting websites.</h4>
+        <a href="https://www.rockthevote.org/">Rock The Vote</a><br>
+        <a href="https://vote.gov/">vote.gov</a>
+      </div>
+
+      <div id="ofAge">
+        <h2>You are old enough to vote.</h2>
+        <h4>Here are some links to voting websites.</h4>
+        <a href="https://en.wikipedia.org/wiki/Voting">Wikipedia: Voting</a><br>
+        <a href="https://vote.gov/">vote.gov</a>
+      </div>
+
+      </div>
+    </div>
   </body>
 </html>
